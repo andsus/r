@@ -1,4 +1,4 @@
-source("./raindrops.R")
+source("~/snap/exercism/5/exercism/r/raindrops/raindrops.R")
 library(testthat)
 
 context("raindrops")
